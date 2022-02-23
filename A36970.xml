@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ecclesia Anglicana, or, Dartons cleare &amp; Protestant manifesto as an evangelicall key sent to the governour of Oxford for the opening of the church dores there, that are shut up without prayers or preaching.</title>
+            <author>Darton, Nicholas, 1603-1649?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36970</idno>
+            <idno type="STC">Wing D272</idno>
+            <idno type="STC">ESTC R10084</idno>
+            <idno type="EEBO-CITATION">12643472</idno>
+            <idno type="OCLC">ocm 12643472</idno>
+            <idno type="VID">65073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 350:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ecclesia Anglicana, or, Dartons cleare &amp; Protestant manifesto as an evangelicall key sent to the governour of Oxford for the opening of the church dores there, that are shut up without prayers or preaching.</title>
+                  <author>Darton, Nicholas, 1603-1649?</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>by H. Hall,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Title page has both 1649 and 1658.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65073:1" rendition="simple:additions"/>
+            <p>
+               <hi>ECCLESIA ANGLICANA,</hi> OR DARTONS Cleare &amp; Proteſtant Manifeſto, <hi>AS AN</hi> Evangelicall Key ſent to the Governour of <hi>OXFORD,</hi> for the opening of the Church Dores there, that are ſhut up without Prayers or Preaching.</p>
+            <q>
+               <p>Open me the Gates of righteouſneſſe, that I may goe into them, and give thanks unto the Lord.</p>
+               <bibl>Pſal. 118. 19.</bibl>
+            </q>
+            <q>
+               <p>Liftup your heads O yee gates, and be yee lifted up yee everlaſting dores and the King of glory ſhall come in.</p>
+               <bibl>Pſal. 24. 7.</bibl>
+            </q>
+            <q>
+               <p>It is written my houſe ſhall be called the houſe of prayer, but yee have made it a Den of theeves.</p>
+               <bibl>Mat. 21. 13.</bibl>
+            </q>
+            <p>Printed in the Yeare, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:65073:2" rendition="simple:additions"/>
+            <pb facs="tcp:65073:2"/>
+            <head>ECCLESIA ANGLICANA, Or Dartons <hi>Cleare &amp; Proteſtant Manifeſto.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Ntipater</hi> King of <hi>Macedon,</hi> being preſented with a Treatiſe of happineſſe: and that moſt ſublime, and for his contemplation, anſwered the Philoſopher, the compoſer of ſo ſweet a pandect, (notwithſtanding the ſuperexcellency, and rarity of ſuch a tran<g ref="char:EOLhyphen"/>ſcendentall Syſteme,) <hi>Ego non ſumotiouſus,</hi> I am not at leaſure, &amp;c.</p>
+            <p>And truly <hi>Sir,</hi> I read of <hi>Felix,</hi> (as bad or worſe, and therefore merited the moſt hideous and diſmall character, of a moſt extreame, unhappy man, that he did moſt incomparably diſhonour the glory, of that his place and function, when after that S.
+<hi>Paul</hi> had made his heart to tremble, with his Goſpell-Logfek; yet to doe the
+<hi>Jews</hi> a pleaſure, would needs leave him bound. <hi>Act.</hi> 24. 27. Application S<hi rend="sup">r</hi>, I ſhal make none at preſent,<note place="margin">
+                  <hi>Act.</hi> 24. 27.</note>
+            </p>
+            <p>For if the innumerabilitie of your warlike actions, and your exceedingly preoccupated time and leaſure, be ſo extraordina<g ref="char:EOLhyphen"/>rily preingaged, with neceſſitated militaries, as that they can<g ref="char:EOLhyphen"/>not<note place="margin">Neceſſitated Militaries.</note> ſeaſonably admit of a little view upon ſo ſmall a tender, I ſhall ſorrowingly doome theſe my paper overtures, (which indeed ate but a naked prologue, or an innocent and a con<g ref="char:EOLhyphen"/>ſcientious
+<pb n="2" facs="tcp:65073:3"/> Apologie, for the ſincere preaching of the pure word of happineſſe) to be a very Apocrypha with your more<note place="margin">Vera predicatio ve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, verè ve<g ref="char:EOLhyphen"/>netanda. <hi>Bern.</hi>
+               </note> then ſerioas negotiations, and my ſelfe a nothing.</p>
+            <p>However <hi>Sir,</hi> leave not <hi>Paul</hi> bound. Oh let not your unu<g ref="char:EOLhyphen"/>ſuall power to that, ſcare Chriſts holy ambaſſadours, into an unwilling ſlothfulneſſe, and like wether beaten Marriners, en<g ref="char:EOLhyphen"/>force them to run aground the now wrack't and torne <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> of all their indefatigable ſtudies, upon the barren ſands, of moſt hatefull and contemptible ſilence, when rather with a promiſed ſun-ſhine, moſt radlantly beaming forth from<note place="margin">You have ac<g ref="char:EOLhyphen"/>counted many to be dumb doggss heretofore, and will you not ſuffer them in promiſed times of libertie, to bark now?</note> your new enlightned Zodiack, (libertie of conſcience in Gods ſervice, being a kinde of an <hi>Eliſium</hi> here, in your judgement<g ref="char:punc">▪</g>) they ſhould launch out into religions deep, for the diſcoveries of Gods wonders there.</p>
+            <p>Truly S<hi rend="sup">r</hi>, the Temple dores of the periſhing Law, were al<g ref="char:EOLhyphen"/>waies open upon Gods holy Sabboths, and ſhall the Goſpelo gates in theſe illuminated daies of yours, be ſecured and ſhur up, with a ſeeming Evangelicall Percullis, and the preaching ſword?</p>
+            <p>Certainly, S<hi rend="sup">r</hi> 
+               <hi>Peters</hi> faith Sir, is far more conſiderable, and of a greater unproportionable value and conſequence, then <hi>Aarons</hi> holieſt of holies, &amp; the diſpenſation of the Goſpell, then the promulgation of the Law. Now Sir, if that the Tem<g ref="char:EOLhyphen"/>ple of the <hi>Jews</hi> (which indeed was but a meere type, and ſha<g ref="char:EOLhyphen"/>dow<note place="margin">Templum a<g ref="char:EOLhyphen"/>pertum, &amp; Eva<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>gelium oper<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:cmbAbbrStroke">̄</g>? abſit. S. Peters <hi>church dores ſhut up in Oxfard and S. Thomas with<g ref="char:EOLhyphen"/>out a preachrr.</hi>
+               </note> as I conceive, of our Goſpelline Proteſtant Church, and which is as we uſually ſay, in the Weſt, namely at her ſun-ſet and gon) I ſay if that this Temple was free, and open for, and to all religions ſacrificers, ſhall S. <hi>Peters</hi> Church in the Eaſt, and <hi>S. Thomas</hi> in the Weſt, be irreligiouſly barracaded, and lock<g ref="char:EOLhyphen"/>up from Chriſts painefull GoſPellers?</p>
+            <p>Oh remember Sir, that moſt holy expreſſion of the moſt ho<g ref="char:EOLhyphen"/>ly ſpirit in this very caſe provided, [to wit,] <hi>The Miniſtra<g ref="char:EOLhyphen"/>tion</hi>
+               <note place="margin">2. Cor. 3. 7. 8.</note>
+               <hi>of the Goſpell muſt exceed in glory now,</hi> ſith the miniſtration of the Law was moſt glorious then.</p>
+            <p>And againe Sir, tis moſt infallibly true, and beyond all contra<g ref="char:EOLhyphen"/>diction, that ſhould ſome moſt holy and moſt piouſly minded
+<pb n="3" facs="tcp:65073:3"/> men (who in my conſcience, rather then they wil turne Apo<g ref="char:EOLhyphen"/>ſtates, and for ſweare themſelues, will indure, were it poſſible,<note place="margin">Reliquerunt domicilia, here<g ref="char:EOLhyphen"/>ditamenta, om<g ref="char:EOLhyphen"/>nia, ſibimetipſis tantum modo conſervaverunt conſcientias.</note> a thouſand deaths for their conſcience ſake) I ſay, ſhould ſuch moſt orthodoxe and moſt profound Divines be coercivelie tongue-tyed, and unchriſtianly conſtrained (in this age of pre<g ref="char:EOLhyphen"/>tended liberty, to lye irreligiouſly kenneld up amongſt the moſt abhominable litters of our unpreaching dumb dogs, and <hi>S. Pauls</hi> moſt holy obedientialls, and <hi>S. Peters</hi> moſt holy ſu<g ref="char:EOLhyphen"/>preame ſubjection (two ſpeciall garlands of the Goſpel's peace) would conſumption themſelves into a meere Anato<g ref="char:EOLhyphen"/>my, and that rare gift and grace of God, ſo much ſpoken of<note place="margin">Obedientia.</note> through the whole * ſcriptu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and beyond all the ſacrifices of our actings and pretentions, would dwindle away, and bee cleane forgotten.</p>
+            <p>Many Sir, I confeſſe of our owne cloth and calling, and more too than a good number, doe preach, tis true, and that out of ſeaſon as well as in, but what doe they preach? Is it Chriſt, and him crucified? Is it the Goſpels golden rule? [<hi>qua menſura, quo judicio? Mat.</hi> 7. 2. With what judgement you judge you ſhall be judged, and with what meaſure you mete, it ſhall be meaſured to you againe. Doe they preach that? Or<note place="margin">Patria amiſſa laribuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vaga<g ref="char:EOLhyphen"/>ri mendicum &amp; tinnida voce ro<g ref="char:EOLhyphen"/>gare cibos, &amp;c. Cum
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a iter a<g ref="char:EOLhyphen"/>re ſuis &amp; con<g ref="char:EOLhyphen"/>juge moeſtâ cumque piâ ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cumque
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arente ſene. <hi>B Prideaux, D. helden, D. Ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mond, D. Heywood, rare men with hun<g ref="char:EOLhyphen"/>dreds more out<g ref="char:EOLhyphen"/>ted for I know not what.</hi>
+               </note> doe they preſſe this home unto the erroneous conſcience? and apply this, oh this ſacred cataplaſme unto the poore and weak and extreamly wounded ſoule?</p>
+            <p>Oh Sir, they dare not ſo much as once harp upon that diſſo<g ref="char:EOLhyphen"/>nant, that eare-tingling, and con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounding ſtring to them, ſeeing with
+<hi>Ahab</hi> they have taken poſſeſſion, and <hi>Naboth</hi> is dead and gone; I meane their unperjur'd and incomparably learned Betters either dead or as bad or worſe, that is to ſay, in plaine Engliſh, <hi>Dispoſſeſt, and out of dores a begging.</hi>
+            </p>
+            <p>No, no Sir, their preaching, I meane the aſpiring labours of ſome of our Diotrepheſes, and (as you clearely ken already) is to preach themſelves into power and government, into an authoritie (I dare be bold were but Eccleſiaſticall Iuriſdiction their deſired freehold) that hath an intended capacitie, not on<g ref="char:EOLunhyphen"/>ly to correct the ſcepter, were it in <hi>Ceſars</hi> hand, but to cramp
+<pb n="4" facs="tcp:65073:4"/> the ſouldier too in his greateſt victories; though of late yeares, tis confeſt, the huge and unlimited bug-beare (as they ſaid) of prelaricall juriſdiction, was the only tyrant that they ſeeming<g ref="char:EOLhyphen"/>ly covenanted againſt, whereas a little before with their moſt learned and then authorized ſeveral Dioceſans, they ſwore di<g ref="char:EOLhyphen"/>rectly<note place="margin">
+                  <hi>I would entreat ſuch liberall ſwearers to read</hi> Z ch 5. 3. 4 5. 6. ver.</note> to maintaine it.</p>
+            <p>Such mens innumerous pretenſions <hi>Sir,</hi> to that ſuperexcel<g ref="char:EOLhyphen"/>lent, and ſo ſo much talk't of enjoyment, of a moſt holy <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> are moſt diſcernably apparent to be nothing more, than <hi>Sir Thomas Moores Vtopia,</hi> ot at the beſt, but like a
+<hi>Scottiſh Decoy,</hi> or a <hi>Geneva<g ref="char:punc">▪</g> like ſtalking Horſe,</hi> whereby they may en<g ref="char:EOLhyphen"/>trap the bird, with the more facilitie and approbation.</p>
+            <p>The Independant partie <hi>Sir,</hi> in my hearing, &amp; to my know<g ref="char:EOLhyphen"/>ledge as well as Royaliſts Nauſeate already at ſuch conceiv'd inſupportable preſſures, and I really dare ſay, rather than their rigid careere, of domineering like univerſall Popes, (though in ſhew, but little Foxes) ſhould have its full ſwing, and implan<g ref="char:EOLhyphen"/>tation, would turne
+<hi>Epiſcopiſts [contra Gentes,]</hi> and keepe holy day with a Lirurgy.</p>
+            <p>Oh deare <hi>Sir,</hi> you your ſelfe can ſufficiently Rhetorique, what an unparallel'd plague it is, and an infandous curſe and miſery, for our <hi>Antiepiſcopiſts</hi> (who once cryed ſo much a<g ref="char:EOLhyphen"/>gainſt Popery, as that the very clothes wee wore upon our backs, and the very meat that went into our mouthes, were ſtigmatiz'd to come either from the whores Wardrop, or from
+<hi>Romes</hi> Kitchin) that they ſhould take upon them now to go<g ref="char:EOLhyphen"/>verne, (I will not ſay to tyrannize ovet) the weake and tender<note place="margin">Agnum in frŏ<g ref="char:EOLhyphen"/>te, lupum in corde gerunt.</note> conſciences of moſt pious and conſcientious chriſtians; (a pra<g ref="char:EOLhyphen"/>ctiſe moſt exteamly prejudiciall, (as they onee aſſerted, and obnoxious to the whole body of Divinitie,) and more then that, Moſt inſultingly to compell the broken in heart, to the<note place="margin">Conſcientia no<g ref="char:cmbAbbrStroke">̄</g> debet cogi.</note> ſtrict obſervation of ſuch innovations of theirs, in the very ſer<g ref="char:EOLhyphen"/>vice of God, which God himſelfe doth anathamatize, in holy ſcriptures, and good ſoules abhominate.</p>
+            <p>Truly Sir, for your own part (and give me leave to publiſh it, without ſlatterie) you have had (ſince my late being in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi>
+               <pb n="5" facs="tcp:65073:4"/> and that from a generall vote both amongſt ſchollers and<note place="margin">Vox notoria, vox Populi.</note> Citizens too) the generall applauſe, for and to be of ſo much civilitie and mildneſſe, to every body, as that we are in good hopes, that libertie of conſcience ſhall not be made a Mock-beggar. Alas Sir, is it not a ſhame of ſhames, that the profeſ<g ref="char:EOLhyphen"/>ſors of pietie ſhould more obſtruct it, then promote it? and impede the ſervants of the everliving God from the hearing of the word of truth? What and if ſome congregations be thin<g ref="char:punc">▪</g> and others are throng'd with multitudes, ought holy men therefore to be offended at the publication of the word and ſacraments? What and if the people deſire to be edified by a Paſtor of their own election, ſhall therefore that way of ſer<g ref="char:EOLhyphen"/>ving<note place="margin">M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nopolies in our temporall tradings bred a great diſtractio<g ref="char:cmbAbbrStroke">̄</g> in this State but a Monopoly in our spiritualities will breed a greater upon the poore ſoule.</note> God, be proſcribed for malignant? What if ſome of our highly exalted Sermoniſts be not affected as they deſire to be, doe you therefore judge it meet, that they ſhould have a Mo<g ref="char:EOLhyphen"/>nopoly, upon Divinitie? and a Monopoly upon Churches? &amp; a Monopoly upon mens conſciences?</p>
+            <p>Farthermore, what and if ſome ſcandalized for delinquen<g ref="char:EOLhyphen"/>cy, have both the Vniverſities and the Cities audience, is it therefore either ſound Logick or Religion, that evill eyes ſhould be their cenſurers, becauſe theirs are good? Truly Sir, I remember the Pſalmiſts dictate is, how that God gave the word, and great was the company of the preachers, and is it fit then, or conſentaneous to religions equipage (I appeale to your own conſcience for indicature) that man ſhould give a word to the contrary, whereby great muſt be the company of the ſilenced? Sir, tis hereſie, or blaſphemie, or treaſon, or ſediti<g ref="char:EOLhyphen"/>on, or ſciſmaticall faction, or an irreligious, and profane, and moſt ſcandalous converſation, that ſhould incenſe
+<hi>Moſes</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Aaron,</hi> and cauſe him to put him by<g ref="char:punc">▪</g> that he ſhould not offer the bread of his God. Tis not the love of the people, or the greatneſſe of our Congregations, or the flocking of the<note place="margin">Boni bonis delectantor.</note> Vniverſitie, or the numerous reſorting of the City, for their ſoules health; that ſhould be a bar to any holy duty. Gods people have great cauſe to Joy, the more that the Lord is ſought after, and when that the feare of the Lord is preſt un<g ref="char:EOLhyphen"/>to
+<pb n="8" facs="tcp:65073:5"/> mens conſciences, and the converſion of the poore ſoule ſincerely aymed at, oh how ſhould you even you rejoyce to be even where ſuch and ſuch things are acted in all godliueſſe, and ſobrietie?</p>
+            <p>Truly Sir, tis the glory of God, and the advance of Chriſts holy incarnation, and his moſt ſatisfactorie death and paſſion, and the flouriſhing of the bleſſed Goſpell, and the Proteſtant faith, and the peace and preſervation of this embroyled king<g ref="char:EOLhyphen"/>dome, that we daily preach up and pray for, and ſhould any depraving natures (whoſe meere life is lying, palliating their deceitfull words, with the falſe and counterfeit dreſſe of pre<g ref="char:EOLhyphen"/>tended holineſſe) enforme the contrary, we ſtand upon our ju<g ref="char:EOLhyphen"/>ſtification, and moſt heartely implore their pardon.</p>
+            <p>But put caſe (Governour) that malitious tongues beſmeare us, becauſe that the Vniverſitie and Citie doe frequent our Auditoriest put caſe their ſeats are emptie, when ours are ſu<g ref="char:EOLhyphen"/>perabundantly repleniſh't, and that the generality of the king<g ref="char:EOLhyphen"/>dome, thirſt after their endeared proteſtancy: What? ſhall therfore the houſe of prayer want her Angels to declare Gods meſſages, and the people of the pariſh be like the multitude in<note place="margin">Sine duceſine paſtore.</note> the Wilderneſſe? <hi>Mark. 6. 34. abſit.</hi>
+            </p>
+            <p>Oh Sir, let neither injurious informations, nor any preju<g ref="char:EOLhyphen"/>dicare opinion anticipate your certaine knowledge, or cor<g ref="char:EOLhyphen"/>rupt your opinion or underſtanding, or judgement about my ſermons, that I preacht of late in publique.</p>
+            <p>For certainly had I preach't them before the Parliament, or Army, or Kingdome, as I did at S.
+<hi>Peters</hi> in the Eaſt, and I ſhould not have varied one Tittle in the whole contexture, but ſHould have deliver'd the very ſame doctrines, and in the very ſame preciſe tearmes, as I did then entirely. And beſides Sir, ſhould Gods all ſeeing providence deſtine me your eares<note place="margin">Dicatur veritas tumpatur invi<g ref="char:EOLhyphen"/>dia.</note> 
+               <hi>Apollos</hi> as that I had but opportunitie to ſpeake home unto the conſcience, and I am really confident your choice pallate in Divinitie, would never a whit diſrelliſh our ſpirituall coo<g ref="char:EOLhyphen"/>kery, ſithence wediſh up before Gods people nothing but his owne quailes and Manna, and how ready ſtill he is to broch
+<pb n="7" facs="tcp:65073:5"/> his ſpirituall <hi>Horeb,</hi> for the ſatisfaction of our ſpirituall thir<g ref="char:EOLhyphen"/>ſtings.</p>
+            <p>Believe it Sir, we preach not our own inventions, we dawb<note place="margin">Tempora mu<g ref="char:EOLhyphen"/>tantur, ſed non mutamur in il<g ref="char:EOLhyphen"/>lis.</note> not the people over with untemper'd morter, wee are no weather-cocks in Church, or out of Church, wee ſtand to our firſt principles, and we abhor as much as we doe even Hell it ſelfe, to divine lyes, ſaying thus ſaith the Lord, when the Lord never ſpake it.</p>
+            <p>That which we publiquely remonſtrate before God and the holy Angells, and before Gods own people and his congrega<g ref="char:EOLhyphen"/>tions, is the moſt holy breathings of Gods own moſt holy ſpi<g ref="char:EOLhyphen"/>rit and not of ours, the moſt ſacred rule of his own moſt bleſ<g ref="char:EOLhyphen"/>ſed will and pleaſure, and not of ours, the moſt holy character of his own eternall iuſtice, and not our unrighteous bablings, &amp; the moſt indeleable <hi>Magna Carta,</hi> or <hi>Court Roule,</hi> of his own Saints and ſervants moſt incomparable benedictions, and not the naked ordinances of our moſt vaine imaginations.</p>
+            <p>Seriouſly Sir, we would moſt gladſomely (and in the very integritie of our hearts be it ſpoken) and with a moſt willing alacrity, ſhew our ſelves to be the moſt luminating lights of the world, did we not moſt unhappily here and there meet with ſome certaine extinguiſhers, that have a delight to darken us, and to quite ſnuffe us out. Againe we would painefully plough up the moſt rockie and the fallow fields of this unto ward and crooked generation, were wee not muzled when we ſhould tread out the corne. Wee would moſt cheerefully prove our ſelves to be the ſalt of the earth, were we not moſt uncharita<g ref="char:EOLhyphen"/>bly deemd to be unſavorie, &amp; throwne out unto the dunghill.<note place="margin">Vos eſtis ſal terrae.</note>
+            </p>
+            <p>In a word Sir, were there not ſome of our owne cloth and calling of <hi>Eſops</hi> dogs diſpoſition, that neither would eate hay himſelfe nor ſuffer the poore horſe to doe it, and without all<note place="margin">Curae leves lo. quuntur, ingen<g ref="char:EOLhyphen"/>tes ſtupen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Re<g ref="char:EOLhyphen"/>member how this once was conſirued.</hi>
+               </note> ſcruple or controverſie, there would not be a Church in this Kingdome, but would be furniſhed with her preaching An<g ref="char:EOLhyphen"/>gell; whereas now oh tell me (deare Sir) what a number both in <hi>London,</hi> and in
+<hi>Yorke,</hi> &amp; in the <hi>
+                  <g ref="char:V">Ʋ</g>niverſities</hi> (which is a foul ſhame, and a reproch eſpeciallie) and in <hi>Worceſter</hi> and in <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi>
+               <pb n="8" facs="tcp:65073:6"/> and in all cities and counties of the Kingdome, that are quite deſtitute of Gods holy word, and Sacraments.</p>
+            <p>Now truly Sir, when moſt ſadly and ſeriouſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y I dive into ſome thoughts for ſuch accuſtomed practiſes, and that my moſt grieved ſoule makes an exact entrance into the narrow diſ<g ref="char:EOLhyphen"/>quiſition, and conſideration of ſo great a famine, of ſo many Church dores ſhut up, ſo many pariſhes without a paſtor, and of ſuch a ſcantneſſe or ſcarcitie of moſt holy preaching in ma<g ref="char:EOLhyphen"/>ny places; and the originall cauſe I finde at length thus, Some of our famous pulpit men, whoſe greateſt learning is to get into the [Learneds Livings] are ſo covetous and for filthie lucre,<note place="margin">Marke this.</note> as that they account it an undervaluing for them to lend an eare, to the low mufique of thoſe Bels, that ring not two hun<g ref="char:EOLhyphen"/>der'd pounds, or a hunder'd a yeare at leaſt, whereby we eaſi<g ref="char:EOLhyphen"/>ly perceive that where the Benefice is ſmall, and the Tythes in an Impropriators pocket, there the church dores muſt be ſeal'd<note place="margin">
+                  <hi>This makes me to feare a most dreadfull fa<g ref="char:EOLhyphen"/>mine of the word in England.</hi> Amos,
+8. 11.</note> up, rather than they will officiate there, and the people turn'd agrazing without Sacraments ſeaven yeares together.</p>
+            <p>We Sir now for our parts, who are not aſham'd of our bonds, who patiently undergoe at preſent, and with Gods aſ<g ref="char:EOLhyphen"/>ſiſtance ſhall for the future too, all croſſes for the croſſe of<note place="margin">
+                  <hi>S.</hi> Paul <hi>counted all things dung for the know<g ref="char:EOLunhyphen"/>ledge of Chriſt and ſo muſt we,</hi> Phil. 3. 8.</note> Chriſt, that without repining, ſubmit to the loſſe of all things, for the teſtimonie of a good conſcience here, valuing the crowne of glory, far beyond the whole maſle of vanitie, oh take notice Sir, that we doe ſo long to performe our functions in the diſpenſation of Gods holy word, as that we thirſtingly covet after the erecting of Gods holy Tabernacle, though we bring but Goats haire to the building of it, and rather Sir, then we will ſhew our ſelves ſuch ungoſpelline trivants, as to ſtand all the day idle, when we ſhould ſweat for it Gods vine<g ref="char:EOLhyphen"/>yard; be confident, and full aſſured, that wee will into the high waies, and hedges, that Gods feaſt may be full, and labour that all may have the wedding garment, and that none may be<g ref="char:EOLhyphen"/>come ſpeechleſſe.</p>
+            <p>The lyme-twiggs of preferment Sir, hang not about our heeles, we ſet more by the Lords ſmall and little flock, then by
+<pb n="9" facs="tcp:65073:6"/> the worlds richeſt and biggeſt fleece; <hi>Judas</hi> his thirtie peeces<note place="margin">M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 26. 15. Joſh. 7.
+21. Exod. 5. 18. Mat. 14. 10.</note> cannot make us to betray our Maſter, nor <hi>Achans</hi> ſtolne wedg tempt us to forſake our God. When wee light into <hi>Pharohs</hi> thraldome, we are faine to make brick without ſtubble, and when we ſpeake againſt <hi>Herods</hi> luſt our heads muſt be daunc't off next. Miſerie and calamitie are entayl'd upon our Miniſtry, and tis as homogenious Sir, to that chriſtianitie we profeſſe, for to take our croſſe willingly, as to follow our moſt bleſſed Saviour cheerefully.</p>
+            <p>All that we deſire in this world, is that we may preach the word moſt purely, for ſuch as preach Chriſt out of envie, will be moſt grievous looſers by it in the end. When our Churches are ingroſt by our ſuperintendants, we reſolve the fields and the high waies ſhall be our pulpits next, and truly ſir, rather<note place="margin">Vae mihi ſi ro<g ref="char:cmbAbbrStroke">̄</g> praedicaveto, in<g ref="char:EOLhyphen"/>quit Apoſtolus.</note> then we will be negligent in the ſervice of the everliving God, or perſunctorily deſert the moſt pious and laudable exe<g ref="char:EOLhyphen"/>cution of our moſt high and holy calling, wee will to the ſea ſhore, that the very waves may roare out our painfulneſſe, and the unſtable waters atteſt our integritie and perſeverance.</p>
+            <p>Meanes we look not after, for that is ſcarce enough for our Eccleſiaſtick reformers, and for thoſe that ſtudy our goods; that which muſt ſupport us, us I ſay, in particular, will be the<note place="margin">W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffs <hi>do<g ref="char:EOLhyphen"/>ctrine from the words freely you have recei<g ref="char:EOLhyphen"/>ved freely give</hi>
+               </note> uncertaine revenue from cold charities exchequer, either at the Church dore, or elſewhere; for now <hi>Wicklifs</hi> old doctrine is reviv'd anew againe (to wit)
+<hi>Our ſalarie muſt be almes in po<g ref="char:EOLhyphen"/>vertie.</hi>
+            </p>
+            <p>But deare ſir, tell me, I beſeech you, what you think is be<g ref="char:EOLhyphen"/>come of the pluralities that once our Diotrepheſes cry'd down for antichriſtian? What think you? are they not [<hi>in rerum na<g ref="char:EOLhyphen"/>tura.</hi> are they dead and gone? Doe not our Calviniſtical Di<g ref="char:EOLhyphen"/>rectors pretend to thoſe ſacred morſels as much right as once the Mitre did, or the ſurpliſſe, or the Dean &amp; Chapters power?</p>
+            <p>Truly ſir, their holineſſe I will warrant you, can moſt gree<note place="margin">What was a moſt heynous ſin in us is no ſinne in them at all.</note> dily ſwallow ſuch ſweet bits as theſe, without any ſin at all in them, thought was a deadly crime in others, and in an high de gree abhominable.</p>
+            <p>
+               <pb n="10" facs="tcp:65073:7"/>And againe<g ref="char:punc">▪</g> ſir, their<g ref="char:punc">▪</g> workes they know to be ſo ſuperabun<g ref="char:EOLhyphen"/>dantly meritorious, having a ſaintlike proprietie to all the good things of the earth, as that in point of preferment they conceive they may ſpotleſly parle amongſt themſelves<g ref="char:punc">▪</g> 
+               <hi>[viz.] And why not that? And why not more?</hi>
+            </p>
+            <p>Now I will not ſay ſir, good luck have they with their ho<g ref="char:EOLhyphen"/>nor, or ride on ſtill, becauſe of the word of truth; for truly, they ride on too faſt, and <hi>Iehu</hi> like, drive on too furiouſly &amp; there<g ref="char:EOLhyphen"/>fore<note place="margin">Becauſe of othes the land mour<g ref="char:EOLunhyphen"/>neth.</note> my Chriſtian oblation to my God for them ſhall be, that they may conſcientiouſly lay to heart their former oaths and undertakings, as once <hi>Aaron</hi> did his, after that (to pleaſe the people) he had polluted himſelf with his moulten Calf, <hi>Ex.</hi> 32</p>
+            <p>But alas and thrice alas, why doe I trouble you, you, you ſir, with theſe ſoliciſmes, &amp; meere impertinencies? Tis the church dore at <hi>S. Peters</hi> in the Eaſt, that I ſo vehemently knock at, &amp;<note place="margin">S. Peters <hi>church in Oxford.</hi> Porta patens eſto, <g ref="char:punc">▪</g>nulli clau<g ref="char:EOLhyphen"/>deris honeſto.</note> that I woutd have open to all believers both in the Vniverſity Citie and Countrie. Oh ſir, ſhall not Gods houſe be frequented by his Saiuts, and upon Gods own daie? ſhall not Gods holy word and ſacraments there, have free paſſage as in other pla<g ref="char:EOLhyphen"/>ces? If I be not the man, oh let your providence get another to officiat there; for my part I can live (God be bleſſed for it) and have more meanes than that priſoners pittance, in any part of all the chriſtian world. Alas tis not lucre but my love to them I doe this; there is very little to be had for maintenance, your judgement can cenſure it, not halfe enough to maintaine a preacher. Take notice thereof ſir, I look on them, as Chriſt did on the multitcde, <hi>Oves ſine Paſtore.</hi> Even ſheep without a ſheepheard:
+<hi>Mark.</hi> 6. 34.</p>
+            <p>But you will ſay peradventure that the Colledge ſhould take care for that, and that it is
+[<hi>extra ſpharam,</hi> and our of your orbe to progreſſe in ſuch a motion<g ref="char:punc">▪</g> Truly ſir, tis confeſt and granted that others ſhould carry on this overture, and make it their
+[<hi>hoc agere</hi>] to ſee Gods houſe provided for. But what<note place="margin">Exod. 29, 4.
+<hi>A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on did need waſhing.</hi>
+               </note> of that? What and if <hi>Aaron</hi> and his ſonnes being ſet apart, for the Prieſts office be uncleane and unholy, muſt not <hi>Moſes</hi> by his authoritie waſh them at the dore of the Tabernacle? ſir,
+<pb n="11" facs="tcp:65073:7"/> tis the glory of Magiſtracie to advance pietie to its pureſt lu<g ref="char:EOLhyphen"/>ſtre; but in caſe the magiſtrate &amp; thoſe concerned now ſhould not minde this holy work, but minde themſelves, and forget their God, nay ſhould they rather retard ſo great a bleſſing from the people, than any way give a countenance, or an ap<g ref="char:EOLhyphen"/>probation to the ſame; oh then ſir, what an honour would it be to the ſword, ſhould it unlock thoſe dores, and welcome in the king of glory, that hath beene ſhut out a great while?</p>
+            <p>Sweet ſir, let it then be farre from your power and juriſdi<g ref="char:EOLhyphen"/>ction, to impriſon Gods holy word &amp; ſacraments, or to cauſe the candleſtick to be broken &amp; daſh'd to peeces. Suffer Gods<note place="margin">Dies Domini<g ref="char:EOLhyphen"/>cus Dei nundi<g ref="char:EOLhyphen"/>num.</note> owne people to enjoy their own pariſh Churches. They have a right and a proprietie to thoſe holy places, more then com<g ref="char:EOLhyphen"/>mon or ordinary. Their Churches upon Gods moſt holy Sab<g ref="char:EOLhyphen"/>boths, are Gods peculiar Market, houſes, where the ſervants of the ever living God may buy Wine and Milk without mony and without price. Yea they are Gods moſt royall exchange where we get gold for droſle, and pearles would wee but leave our puddles.</p>
+            <p>Should you exclude them thence, where would you have them goe? Conventicles they will have none, as long as Gods houſe is ſtanding; Tavernes, and Tap<g ref="char:punc">▪</g> houſes are to bee ſhunn'd upon Gods holy reſt. Where then? Would you have them to be idle &amp; to be unprofitable ſervants in Gods harveſt? Oh ſir, believe it, and take it for a certaine truth, that ſpirituall ſloth upon Gods day, and the more when they are debard from Gods houſe, is an abhomination in their eyes. Their poore ſoules would faine ſing their [<hi>Te Deums</hi> to their God. ſith Atheiſme is ſo rife in England, and would faine warble forth <hi>Maries Magnificat</hi> by reaſon that the Di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie is ſo leſſened by Heretiques, and Nullfidians.</p>
+            <p>To be briefe then, ſuffer ihe people of God to enjoy their<note place="margin">Christian cha<g ref="char:EOLhyphen"/>rity wll inforce a man to theſe things.</note> religion; the very Turke will doe it, to thoſe that are his Tri<g ref="char:EOLhyphen"/>butaries. Suffer them to uſe their libertie of conſcience as you deſire to uſe yours, for the <hi>Parliament</hi> hath alwaies promiſed it. They are willing to repaire Gods houſe, willing to main<g ref="char:EOLhyphen"/>taine
+<pb n="12" facs="tcp:65073:8"/> their Miniſter, deſirous of the word and ſacraments, and willing to embrace the truth. Oh therefore let not your inhi<g ref="char:EOLhyphen"/>bition be a <hi>Remora</hi> to retard their pietie, let them not be dri<g ref="char:EOLhyphen"/>ven to ſeek to and fro for the food of their poore ſoules, when Gods glory is the [<hi>White</hi>] they ſhoote at.</p>
+            <p>For my own juſtification ſir, that which I have divulgd be<g ref="char:EOLhyphen"/>fore God and Angels and Men, I have had warrant for, from the word of truth. Hath any one taxt me of ſedition, or blaſphe<g ref="char:EOLhyphen"/>my or hereſie? I deſire to appeare face to face. Doe I meddle<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et me know my accuſers that I may entreat God to forgive them by name.</note> with ſtate matters? Alas my way as thouſands in this king<g ref="char:EOLhyphen"/>dome will freely atteſt unto you, tis the waie of peace. Sir, I pray for peace, and I preach for peace, and I long for peace, &amp; I ſtudie for peace, and I am confident (notwithſtanding the worlds oppoſals) I enjoy the God of peace.</p>
+            <p>Againe ſir, pray tell me, am I a ring-leader of any ſect in the Vniverſitie? Are not the ſoules and conſciences of diverſe pi<g ref="char:EOLhyphen"/>ous and holy chriſtians both Schollers and Citizens troubled, that they cannot enjoy him in the Goſpell, whom they deſire ſhould preach to them Chriſt Jeſus? Infallibly ſir, as the blood of the martyrs is the ſeed of the Church, ſo the repreſſing and reſtrainment of our Proteſtancy, makes thouſands the more to hunger, aad to ſeeke for it with moſt ſharp affections: Sir, wee abhominate Popery, we act not the part of Jeſuits, mutinies and diſturbances we deteſt even as the hell it ſelf. Our congregatio<g ref="char:cmbAbbrStroke">̄</g>s<note place="margin">I doe intend (God Willing) to print all my Oxford Ser<g ref="char:EOLhyphen"/>mons, that the kingdome may read my inno<g ref="char:EOLhyphen"/>cency.</note> loath diviſions, for we ayme at the kingdomes quiet, and there are no diſaffected ſtrivings that come within our labours. Far<g ref="char:EOLhyphen"/>ther did you ever heare that our holy meetings were ſtigma<g ref="char:EOLhyphen"/>matizd with factious ſermons? You will ſay I draw the peo<g ref="char:EOLhyphen"/>ple, and I pray God I may ſtill to God ward. The myſtery of godlineſſe is explained to mens tender conſciences, elſe wee ſpeak not myſtically as you perchance may ce<g ref="char:cmbAbbrStroke">̄</g>ſure<g ref="char:punc">▪</g> God forbid then ſir, that jealouſies ſhould put out the Goſpels candle, or that needleſſe feares ſhould remove her candleſtick.</p>
+            <p>To conclude ſir, are we guiltie of ſtate-Invectives? Alas ſir, he is neither ch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtian nor divine, that with the holy Archan<g ref="char:EOLhyphen"/>gel, cannot refraine from railing accuſations, be it againſt the
+<pb n="13" facs="tcp:65073:8" rendition="simple:additions"/> very Devill of hell. Truely ſir be pleaſed to know then, our courſe is to beat down ſinne that hath ſo ruind the three king<g ref="char:EOLhyphen"/>domes, and to cry up love that is ſo much wanting in all three; and had our Church and State incendiaries or our moſt furious kindle-coales (that preacht (<hi>Curſe yee Meroz</hi>) but ſincerely layd to heart the price of bloud, and what a fearefull account they are to make for ſhedding innocent blood themſelves, when they ſhould have preacht [bleſſed be the peace <hi>Makers Mat.</hi> 5. 9. had they cryd up [<hi>that a kingdome divided cannot ſtand Mark.</hi> 3. 24. when that their doctrines were continu<g ref="char:EOLhyphen"/>ally, <hi>fight, fight, and deſtroy</hi> till that your enimies lick up the duſt<g ref="char:punc">▪</g> and I am confident ſir, our ſwords long agoe had beene turned into mattocks, and our ſpeares to pruning hooks, yea we had ſate every one under our own Vines, and under our own Fig-trees, and had eaten the fruits of our own labours, at our own tables, with peace and happinneſſe.</p>
+            <p>But I pray God forgive the Clergie that have egg'd men unto blood, I pray God it may not be laid to their charge, when their ſoules ſhall come to anſwer for it, before Gods great Tribunall at the laſt day. And in the interim, I deſire them as brethren and in the bowels of Chriſt Jeſus to ſtudy the ſweetneſſe of peace, in the bond of love, to ſtudy to love their enimies, and to bleſſe their enimies, and to doe good to their enimies, &amp; to pray for their enimies. <hi>Mat.</hi> 5. 44. to ſtu<g ref="char:EOLhyphen"/>dy againe (if it be poſſible) to live peaceably with all men, and not to ſtudy revenge. <hi>Rom.</hi> 12. 11. 19. &amp; then the God of peace and love will dwell with them. 2. <hi>Cor.</hi> 13. 11.</p>
+            <p>In fine worthy ſir, judge of me as God ſhall give you light' You &amp; I one day ſhall come before the moſt righteous judge, that will judge us both. My crime at preſent (it ſeemes) in your eyes) is for ſtanding to my firſt principles, &amp; that I have ſerv'd God, in <hi>Oxford,</hi> as we all did before the warres. Truly ſir, for this imputative offence, I appeale to my God for judgement, crying earneſtly unto him, with a</p>
+            <p>
+               <hi>Te Deum laudamus.</hi>
+            </p>
+            <p>
+               <hi>Te Dominum confitemur.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
